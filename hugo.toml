@@ -2,3 +2,5 @@ baseURL = 'https://leulmes.github.io/lulumes/'
 languageCode = 'en-us'
 title = "Leul Mesfin"
 theme = 'nostyleplease'
+relativeURLs = true
+canonifyURLs = true
